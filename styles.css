@@ -1,8 +1,14 @@
+h1 {
+  color: blue;
+}
+p {
+  color: red;
+}
 body {
+    background-color: powderblue;
     background: linear-gradient(-45deg, #83a4d4, #b6fbff);
     font-family: 'Open Sans', sans-serif;
 }
-
 * {box-sizing: border-box}
       body {font-family: Verdana, sans-serif; margin:0}
       .mySlides {display: none}
